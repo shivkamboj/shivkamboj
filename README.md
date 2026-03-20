@@ -14,5 +14,10 @@ Laravel • PHP • MySQL • React.js • Inertia.js • JavaScript • jQuery 
 - Performance optimization and scalable backend systems
 
 ## 📫 Connect
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/shivanshu-kamboj-426b77256)/)
+- [LinkedIn](https://www.linkedin.com/in/shivanshu-kamboj-426b77256/)
 - [GitHub](https://github.com/shivkamboj)
+- [Instagram](https://www.instagram.com/shivanshu_kamboj/)
+- [Email](mailto:shivanshukamboj0001@gmail.com)
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/shivanshu-kamboj-426b77256/) • [GitHub](https://github.com/shivkamboj) • [Instagram](https://www.instagram.com/your-instagram-username/) • [Email](mailto:shivanshukamboj0001@gmail.com)
