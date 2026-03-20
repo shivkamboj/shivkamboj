@@ -13,5 +13,6 @@ Laravel • PHP • MySQL • React.js • Inertia.js • JavaScript • jQuery 
 - REST APIs, admin panels, business apps
 - Performance optimization and scalable backend systems
 
-## Contact
-shivanshukamboj0001@gmail.com
+## 📫 Connect
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/shivanshu-kamboj-426b77256)/)
+- [GitHub](https://github.com/shivkamboj)
